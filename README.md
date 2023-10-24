@@ -1,6 +1,6 @@
 Esta es una web para la empresa ZETI en Cuba esta desarrollada en vue y laravel usando inertia
 
-## 🚀 Run Locally
+## 🚀 Correr en local
 
 1.Clone the Zeti repository:
 
@@ -8,23 +8,17 @@ Esta es una web para la empresa ZETI en Cuba esta desarrollada en vue y laravel 
 git clone https://github.com/crgv7/Zeti
 ```
 
-2.Install the dependencies with one of the package managers listed below:
+2.Instalar dependencias
 
 ```bash
 composer install
 ```
 
-3.Start the development mode:
+3.Iniciar servidor
 
 ```bash
 php run serve
 npn run dev
 ```
 
-## ☁️ Deploy
 
-`[Application name](Your App URL)`
-
-## 📄 License
-
-[**Add Your License**](https://choosealicense.com)
