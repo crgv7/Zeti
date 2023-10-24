@@ -1,4 +1,4 @@
-Esta es una web para la empresa ZETI en Cuba est
+Esta es una web para la empresa ZETI en Cuba esta desarrollada en vue y laravel usando inertia
 
 ## 🚀 Run Locally
 
@@ -17,7 +17,8 @@ composer install
 3.Start the development mode:
 
 ```bash
-php main.php
+php run serve
+npn run dev
 ```
 
 ## ☁️ Deploy
