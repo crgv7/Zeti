@@ -2,7 +2,7 @@ Esta es una web para la empresa ZETI en Cuba esta desarrollada en vue y laravel 
 
 ## 🚀 Correr en local
 
-1.Clone the Zeti repository:
+1.Clonar del repositorio:
 
 ```sh
 git clone https://github.com/crgv7/Zeti
